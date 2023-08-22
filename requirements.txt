@@ -1,0 +1,5 @@
+sqlalchemy
+pymysql
+google-cloud-bigquery
+pyarrow
+pandas 
